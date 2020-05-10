@@ -1,0 +1,14 @@
+|region                                                                                              |
+|----------------------------------------------------------------------------------------------------|
+|Canada                                                                                              |
+|China                                                                                               |
+|Denmark                                                                                             |
+|France                                                                                              |
+|Germany                                                                                             |
+|Japan                                                                                               |
+|Norway                                                                                              |
+|Russia                                                                                              |
+|Sweden                                                                                              |
+|Switzerland                                                                                         |
+|UK                                                                                                  |
+|USA                                                                                                 |

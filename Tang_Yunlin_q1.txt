@@ -1,0 +1,182 @@
+|region                                                                                              |count               |
+|----------------------------------------------------------------------------------------------------|--------------------|
+|Russia                                                                                              |1028                |
+|Germany                                                                                             |924                 |
+|USA                                                                                                 |752                 |
+|Spain                                                                                               |546                 |
+|UK                                                                                                  |516                 |
+|France                                                                                              |492                 |
+|China                                                                                               |460                 |
+|Canada                                                                                              |446                 |
+|Italy                                                                                               |438                 |
+|Australia                                                                                           |399                 |
+|Japan                                                                                               |392                 |
+|Hungary                                                                                             |352                 |
+|Czech Republic                                                                                      |333                 |
+|South Korea                                                                                         |322                 |
+|Romania                                                                                             |308                 |
+|Netherlands                                                                                         |265                 |
+|Poland                                                                                              |264                 |
+|Sweden                                                                                              |253                 |
+|Bulgaria                                                                                            |238                 |
+|Brazil                                                                                              |233                 |
+|Cuba                                                                                                |197                 |
+|New Zealand                                                                                         |175                 |
+|Switzerland                                                                                         |171                 |
+|Denmark                                                                                             |144                 |
+|Mexico                                                                                              |142                 |
+|South Africa                                                                                        |141                 |
+|Finland                                                                                             |131                 |
+|Austria                                                                                             |129                 |
+|North Korea                                                                                         |123                 |
+|Norway                                                                                              |116                 |
+|Portugal                                                                                            |115                 |
+|Argentina                                                                                           |111                 |
+|Belgium                                                                                             |105                 |
+|Puerto Rico                                                                                         |101                 |
+|Serbia                                                                                              |88                  |
+|Egypt                                                                                               |84                  |
+|Ireland                                                                                             |78                  |
+|Greece                                                                                              |77                  |
+|Individual Olympic Athletes                                                                         |77                  |
+|Nigeria                                                                                             |72                  |
+|Thailand                                                                                            |64                  |
+|India                                                                                               |61                  |
+|Colombia                                                                                            |61                  |
+|Ukraine                                                                                             |60                  |
+|Turkey                                                                                              |57                  |
+|Kenya                                                                                               |55                  |
+|Lithuania                                                                                           |54                  |
+|Jamaica                                                                                             |52                  |
+|Indonesia                                                                                           |51                  |
+|Slovenia                                                                                            |50                  |
+|Croatia                                                                                             |49                  |
+|Estonia                                                                                             |47                  |
+|Guam                                                                                                |45                  |
+|Morocco                                                                                             |45                  |
+|Israel                                                                                              |44                  |
+|Belarus                                                                                             |44                  |
+|Iran                                                                                                |44                  |
+|Guatemala                                                                                           |42                  |
+|Ghana                                                                                               |41                  |
+|Latvia                                                                                              |40                  |
+|Mongolia                                                                                            |38                  |
+|Philippines                                                                                         |38                  |
+|Taiwan                                                                                              |38                  |
+|Singapore                                                                                           |37                  |
+|Kuwait                                                                                              |37                  |
+|Fiji                                                                                                |36                  |
+|Algeria                                                                                             |36                  |
+|United Arab Emirates                                                                                |36                  |
+|Virgin Islands, US                                                                                  |34                  |
+|Angola                                                                                              |33                  |
+|Dominican Republic                                                                                  |32                  |
+|Iceland                                                                                             |31                  |
+|Paraguay                                                                                            |31                  |
+|Malaysia                                                                                            |30                  |
+|Qatar                                                                                               |30                  |
+|Bermuda                                                                                             |29                  |
+|Pakistan                                                                                            |28                  |
+|Zimbabwe                                                                                            |28                  |
+|Slovakia                                                                                            |28                  |
+|Venezuela                                                                                           |27                  |
+|Honduras                                                                                            |27                  |
+|Senegal                                                                                             |25                  |
+|Ethiopia                                                                                            |24                  |
+|Barbados                                                                                            |22                  |
+|Mauritius                                                                                           |22                  |
+|Central African Republic                                                                            |21                  |
+|Seychelles                                                                                          |21                  |
+|Boliva                                                                                              |21                  |
+|Peru                                                                                                |21                  |
+|Costa Rica                                                                                          |20                  |
+|San Marino                                                                                          |20                  |
+|Papua New Guinea                                                                                    |19                  |
+|Democratic Republic of the Congo                                                                    |19                  |
+|Cyprus                                                                                              |19                  |
+|Belize                                                                                              |19                  |
+|Uruguay                                                                                             |18                  |
+|Antigua                                                                                             |18                  |
+|Lebanon                                                                                             |18                  |
+|Bahamas                                                                                             |18                  |
+|Ivory Coast                                                                                         |18                  |
+|Saudi Arabia                                                                                        |17                  |
+|Madagascar                                                                                          |17                  |
+|Sri Lanka                                                                                           |16                  |
+|Kazakhstan                                                                                          |16                  |
+|Ecuador                                                                                             |15                  |
+|Chile                                                                                               |15                  |
+|Sierra Leone                                                                                        |15                  |
+|Tunisia                                                                                             |15                  |
+|Bahrain                                                                                             |15                  |
+|Bosnia and Herzegovina                                                                              |13                  |
+|Trinidad                                                                                            |13                  |
+|Cayman Islands                                                                                      |13                  |
+|Bhutan                                                                                              |12                  |
+|Cameroon                                                                                            |12                  |
+|Uzbekistan                                                                                          |12                  |
+|Guinea                                                                                              |11                  |
+|Zambia                                                                                              |11                  |
+|Republic of Congo                                                                                   |10                  |
+|Swaziland                                                                                           |10                  |
+|Namibia                                                                                             |10                  |
+|Rwanda                                                                                              |10                  |
+|Vietnam                                                                                             |10                  |
+|Maldives                                                                                            |10                  |
+|Albania                                                                                             |9                   |
+|Suriname                                                                                            |9                   |
+|Tanzania                                                                                            |9                   |
+|Syria                                                                                               |9                   |
+|Uganda                                                                                              |9                   |
+|Togo                                                                                                |9                   |
+|Nicaragua                                                                                           |9                   |
+|Bangladesh                                                                                          |9                   |
+|Andorra                                                                                             |8                   |
+|Vanuatu                                                                                             |8                   |
+|Lesotho                                                                                             |8                   |
+|Liechtenstein                                                                                       |8                   |
+|Saint Vincent                                                                                       |8                   |
+|Gambia                                                                                              |8                   |
+|Djibouti                                                                                            |8                   |
+|Iraq                                                                                                |8                   |
+|Malta                                                                                               |8                   |
+|Yemen                                                                                               |8                   |
+|Moldova                                                                                             |8                   |
+|Luxembourg                                                                                          |8                   |
+|Guyana                                                                                              |8                   |
+|Haiti                                                                                               |8                   |
+|Equatorial Guinea                                                                                   |8                   |
+|Chad                                                                                                |7                   |
+|Benin                                                                                               |7                   |
+|Panama                                                                                              |7                   |
+|Sudan                                                                                               |7                   |
+|Mozambique                                                                                          |7                   |
+|Laos                                                                                                |7                   |
+|Georgia                                                                                             |6                   |
+|Mauritania                                                                                          |6                   |
+|Curacao                                                                                             |6                   |
+|Botswana                                                                                            |6                   |
+|Mali                                                                                                |6                   |
+|El Salvador                                                                                         |6                   |
+|Libya                                                                                               |5                   |
+|Oman                                                                                                |5                   |
+|Macedonia                                                                                           |5                   |
+|Samoa                                                                                               |5                   |
+|Tonga                                                                                               |5                   |
+|Jordan                                                                                              |5                   |
+|Gabon                                                                                               |5                   |
+|Aruba                                                                                               |5                   |
+|Grenada                                                                                             |5                   |
+|Myanmar                                                                                             |5                   |
+|Azerbaijan                                                                                          |4                   |
+|Monaco                                                                                              |4                   |
+|Malawi                                                                                              |4                   |
+|Burkina Faso                                                                                        |4                   |
+|Virgin Islands, British                                                                             |4                   |
+|Armenia                                                                                             |3                   |
+|American Samoa                                                                                      |3                   |
+|Niger                                                                                               |3                   |
+|Nepal                                                                                               |2                   |
+|Cook Islands                                                                                        |2                   |
+|Nauru                                                                                               |1                   |
+|Solomon Islands                                                                                     |1                   |
